@@ -26,11 +26,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [MyEnumerable] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> a Ruby project that demonstrates how to construct mixin functionality from Enumerable and use classes and modules appropriately.
 
-**[your_project__name]** is a...
+**[MyEnumerable]** is a a Ruby project that demonstrates how to construct mixin functionality from Enumerable and use classes and modules appropriately. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,7 +63,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[key_feature_1]**
 - **[key_feature_2]**
